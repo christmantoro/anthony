@@ -18,7 +18,7 @@ export function DreamBookSection() {
           <div className="w-full md:w-1/2">
             <div className="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden shadow-xl">
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="/img/vision.png?height=600&width=800"
                 alt="Scanned dream book page"
                 width={800}
                 height={600}

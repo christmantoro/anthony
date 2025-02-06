@@ -32,8 +32,8 @@ export default function Footer() {
           </div>
           <div>
             <h3 className="text-xl font-bold mb-4">Contact Us</h3>
-            <p className="text-gray-400">Email: info@example.com</p>
-            <p className="text-gray-400">Phone: +1 (123) 456-7890</p>
+            <p className="text-gray-400">Email: hello@idb2b.com</p>
+            <p className="text-gray-400">Phone: +62 (21) 39730083</p>
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
